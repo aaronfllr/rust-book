@@ -1,0 +1,1 @@
+{"rustc":17645046306287497899,"features":"[\"simd\", \"std\"]","declared_features":"","target":602634026009422966,"profile":2987061633672836593,"path":12403033683979659119,"deps":[],"local":[{"Precalculated":"0.2.17"}],"rustflags":["-C","link-arg=-fuse-ld=mold"],"metadata":14155036307809790115,"config":2202906307356721367,"compile_kind":0}
