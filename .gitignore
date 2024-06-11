@@ -1,3 +1,6 @@
+# debug and doc
+*/doc/
+*/debug/
 # Devenv
 .devenv*
 devenv.local.nix
